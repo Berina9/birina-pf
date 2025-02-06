@@ -19,7 +19,7 @@ export default function About() {
         <div className="grid md:grid-cols-2 gap-12">
           <div className="bg-white p-8 rounded-lg shadow-lg">
             <p className="text-lg mb-6 text-gray-700">
-              I'm a passionate graphic designer and web developer currently
+              I&apos;m a passionate graphic designer and web developer currently
               working as a Graphics Design Intern at Mercy Technology. I
               specialize in creating impactful visual solutions across various
               industries including education, healthcare, and product design.
